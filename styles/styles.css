@@ -13,6 +13,14 @@ h1 {
   color: steelblue;
 }
 
+img {
+  width: 150px;
+  height: auto;
+  border: 1px solid steelblue;
+  padding: 2px;
+  box-shadow: 0 0 30px gray;
+}
+
 img.profile-img {
   width: 200px;
   float: right;
